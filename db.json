@@ -2,14 +2,14 @@
     "Comida":[
         {
             "id": 1,
-            "Nombre": "Sopa a la Francesa";,
+            "Nombre": "Sopa a la Francesa",
             "Descripcion": "Sopa con Verduras en salsa.",
             "Precio":150.00,
             "imagen": "https://cocina-casera.com/wp-content/uploads/2018/01/sopa-de-cebolla-francesa-3.jpg"
         },
         {
             "id": 2,
-            "Nombre": "Boneless";,
+            "Nombre": "Boneless",
             "Descripcion": "Boneless BQ , Mango , Abanero",
             "Precio":180.00,
             "imagen": "https://www.recetasnestlecam.com/sites/default/files/srh_recipes/9588ce1e072039046deffaf717edeae3.jpg"
